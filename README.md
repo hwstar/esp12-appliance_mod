@@ -15,5 +15,10 @@ This board was designed using KICAD.
 
 ** Board Size **
 
-15cm x 15 cm.
+15cm x 15cm
+
+** Disclaimer **
+
+Build and use at your own risk. This board design uses lethal mains voltages. I will not be responsible for any damages, errors or omissions, loss of life, or property damage. You have been warned.
+
 

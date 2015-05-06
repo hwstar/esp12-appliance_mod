@@ -17,6 +17,10 @@ This board was designed using KICAD.
 
 15cm x 15cm
 
+** LICENSE **
+
+Creative Commons Attribution Share-Alike license. (CC-BY-SA)
+
 ** Disclaimer **
 
 Build and use at your own risk. This board design uses lethal mains voltages. I will not be responsible for any damages including but not limited to: errors or omissions, loss of life, or property damage. You have been warned.

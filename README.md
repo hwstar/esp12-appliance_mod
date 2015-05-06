@@ -19,6 +19,6 @@ This board was designed using KICAD.
 
 ** Disclaimer **
 
-Build and use at your own risk. This board design uses lethal mains voltages. I will not be responsible for any damages, errors or omissions, loss of life, or property damage. You have been warned.
+Build and use at your own risk. This board design uses lethal mains voltages. I will not be responsible for any damages including but not limited to: errors or omissions, loss of life, or property damage. You have been warned.
 
 

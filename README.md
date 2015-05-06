@@ -1,6 +1,6 @@
 **esp12-appliance_mod**
 ==========
-This is a hardware implementation for the my ESP8266-MQTT-io-node project.
+This is a hardware implementation for my ESP8266-MQTT-io-node project.
 
 ![ProjectPicture](relayboard.jpg)
 

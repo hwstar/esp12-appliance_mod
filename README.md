@@ -16,7 +16,7 @@ This board was designed using KICAD.
 
 **Board Size**
 
-15cm x 15cm
+10cm x 10cm
 
 **LICENSE**
 

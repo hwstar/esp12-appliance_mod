@@ -1,0 +1,40 @@
+Item,Part Number,Qty,Reference(s),Title/Description,Value on Schematic,Manufacturer,Manufacturer Part Number
+1,800126-477,1,C1,"CAP,ELECT,8MM,GP,470u,16V",470,Open Market,N/A
+2,800003-106,1,C2,"CAP,0805,10u,25V,X5R",10U,Open Market,N/A
+3,800000-104,1,C3,"CAP,0603,0.1u,25V,X7R",0.1U,Open Market,N/A
+4,800127-101,2,"CR1,CR2","DIODE,SCHOTTKY,SGL,SOT-23",BAT54_,Diodes Inc.,BAT54-7-F
+5,800125-500,1,F1,"FUSE,0.5A,SLO-BLOW,8.5 X 8 MM,RADIAL",FUSE,Littelfuse,3720500
+6,800114-102,3,"J1,J3,J4","CONN,HDR,SHROUDED,2 CKT,5MM,XH SERIES",CONN2,JST,B2B-XH-A
+7,800116-106,1,J2,"CONN,HDR,6CKT,0.1PITCH,BERGSTRIP",CONN6,Open Market,N/A
+8,800124-101,1,J5,"CONN,HDR,SHROUDED,2PIN IN 3PIN HSG, XH",CONN2-3HSG,Open Market,N/A
+9,800129-102,2,"J6,J7","CONN,TERM BLK,2 POS,7.62MM PITCH",CONN2-TB762,Open Market,KF7.62-2P
+10,800128-101,1,K1,"RELAY,5V,LATCHING,SPDT,DUAL COIL,16A,250V",RELAY_TE_RE314F05,Tyco Electronics,8-1393239-5
+11,800110-101,2,"Q1,Q2","XSTR,GP,NPN,40V,SOT23",MMBT4401,Fairchild Semiconductor,MMBT4401
+12,800123-101,2,"Q3,Q4","XSTR,MOSFET,N-CH,4.0A,30V,SOT-23",DMN3112,Diodes Inc.,DMN3112S-7
+12,,,,,,Vishay,SI2306BDS-T1-E3
+13,800010-103,4,"R1,R4,R5,R7","RES,0603,10K OHM,5%",10K,Open Market,N/A
+14,800010-473,4,"R6,R8-R10","RES,0603,47K OHM,5%",47K,Open Market,N/A
+15,800011-221,1,R2,"RES,0805,220 OHM,5%",220,Open Market,N/A
+16,800010-102,1,R3,"RES,0603,1K OHM,5%",1K,Open Market,N/A
+17,800107-101,1,S1,"SWITCH, TACT, 6MM",SW_TACT,Open Market,N/A
+18,800106-101,1,U1,"MODULE,WIFI,ESP12",ESP8266-ESP-12,Open Market,N/A
+19,800121-101,1,VR1,"IC,VREG,3.3V,1A,SOT-223",NCP1117ST33,On Semiconductor,NCP1117ST33T3G
+,,,,,,,
+,Power Supply Sub-assembly,,,,,,
+,,,,,,,
+1,XXXXXX-XXX,1,PSU,"PSU, 5V, 1A, UNIV INPUT, ISOLATED",Open  Market,Ebay 351211320656,"see picture, hole pattern must match main board."
+2,XXXXXX-XXX,1,,"CONN, PLUG 3 POS",Open  Market,Ebay,JST XH series knockoff*
+3,XXXXXX-XXX,1,,"CONN, PLUG 2 POS",Open  Market,Ebay,JST XH series knockoff*
+4,XXXXXX-XXX,4,,"CONTACT, JST XH SERIES",Open  Market,Ebay,JST XH series knockoff*
+5,XXXXXX-XXX,0.001,,"WIRE, 24 AWG, UL 1007",Open  Market,Ebay,
+6,XXXXXX-XXX,4,,Nylon Standoff M2 20mm,Open  Market,Ebay,
+7,XXXXXX-XXX,4,,Nylon Nut M2,Open  Market,Ebay,
+8,XXXXXX-XXX,4,,Nylon Screw M2 6mm,Open  Market,Ebay,
+,,,,,,,
+,,,,,,,
+,*,,A small kit of JST XH compatible,,,,
+,,,connectors is available on Ebay,,,,
+,,,under item 141292096528,,,,
+,,,This will have all of the headers,,,,
+,,,pins and housings you need,,,,
+,,,to build the project.,,,,

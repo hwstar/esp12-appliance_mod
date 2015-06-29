@@ -18,6 +18,19 @@ This board was designed using KICAD.
 
 10cm x 10cm
 
+**Board Blank Availability**
+
+Board Blanks are available on Tindie:
+
+https://www.tindie.com/products/hwstarsr/board-blank-for-esp12-appliancemod
+
+**Firmware**
+
+The firmware for this project can be found here:
+
+https://github.com/hwstar/ESP8266-MQTT-io-node
+
+
 **LICENSE**
 
 Creative Commons Attribution Share-Alike license. (CC-BY-SA)
